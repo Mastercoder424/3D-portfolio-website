@@ -53,10 +53,10 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "Youtube SEO",
-      icon: youtube,
-    },
+    //{
+      //title: "Youtube SEO",
+     // icon: youtube,
+    //},
   ];
   
   const technologies = [
